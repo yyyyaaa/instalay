@@ -19,3 +19,6 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# Compiled relay code
+/src/__generated__
